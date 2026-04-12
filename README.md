@@ -49,7 +49,6 @@ I enjoy solving real-world problems and turning complex requirements into simple
 
 ## 📈 GitHub Stats
 
-- 🔥 1000+ contributions in the last year  
 - 📌 Active and consistent development  
 - 💡 Focused on real-world projects  
 
