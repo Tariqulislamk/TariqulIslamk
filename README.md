@@ -79,6 +79,7 @@ I'm always open to:
 - 💬 **Discussions** about tech and architecture
 - 🚀 **Exciting opportunities** where I can add value
 
+**🔗 LinkedIn:** [Md Tariqul Islam](https://www.linkedin.com/in/md-tariqul-islam-119899264) 
 **📧 Email:** [tariqulislam0302@gmail.com](mailto:tariqulislam0302@gmail.com)  
 **🌐 Portfolio:** [web-tariqul-islam.vercel.app](https://web-tariqul-islam.vercel.app/)  
 **💻 GitHub:** [github.com/Tariqulislamk](https://github.com/Tariqulislamk)
