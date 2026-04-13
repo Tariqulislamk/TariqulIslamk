@@ -34,6 +34,7 @@ I enjoy solving real-world problems and turning complex requirements into simple
 ### Tools & Others
 - Git & GitHub
 - Axios / API Integration
+- Socket.IO
 - SignalR (Real-time)
 - Responsive UI Design
 
