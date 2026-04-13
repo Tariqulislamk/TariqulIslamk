@@ -48,17 +48,27 @@ Results-oriented **Full Stack Developer** with expertise in modern web technolog
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tariqulislamk&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+<!-- These badges always work -->
+![Profile Views](https://komarev.com/ghpvc/?username=Tariqulislamk&color=0F6E56&style=for-the-badge)
+![GitHub Followers](https://img.shields.io/github/followers/Tariqulislamk?style=for-the-badge&logo=github&color=0F6E56)
+![GitHub Stars](https://img.shields.io/github/stars/Tariqulislamk?style=for-the-badge&logo=github&color=0F6E56)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tariqulislamk&layout=compact&theme=radical&hide_border=true)
+<!-- Try this alternative stats card -->
+![Tariqul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tariqulislamk&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=0F6E56&icon_color=0F6E56)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tariqulislamk&theme=radical&hide_border=true)
+<!-- This alternate API often works better -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tariqulislamk&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=0F6E56)
+
+<!-- Reliable streak counter -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=Tariqulislamk&theme=radical&hide_border=true&background=0d1117&stroke=0F6E56&ring=0F6E56&fire=0F6E56&currStreakNum=0F6E56)](https://git.io/streak-stats)
 
 </div>
+
+> **Note:** Stats APIs may occasionally be rate-limited. If images don't load, refresh the page or check back later.
 
 ---
 
