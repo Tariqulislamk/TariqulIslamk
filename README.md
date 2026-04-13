@@ -59,8 +59,6 @@ Results-oriented **Full Stack Developer** with expertise in modern web technolog
 
 </div>
 
-> **Note:** Stats APIs may occasionally be rate-limited. If images don't load, refresh the page or check back later.
-
 ---
 
 ## 🌱 Currently Leveling Up
