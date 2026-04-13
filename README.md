@@ -28,11 +28,12 @@ Results-oriented **Full Stack Developer** with expertise in modern web technolog
 
 | **Frontend** | **Backend** | **Database & Tools** |
 |:---:|:---:|:---:|
-| React.js | Node.js / Express.js | MS SQL Server |
-| Next.js | .NET Core Web API | Git & GitHub |
-| TypeScript | RESTful APIs | Axios |
-| Tailwind CSS | LINQ & Stored Procedures | Socket.IO |
-| Ant Design | SignalR | Postman / Swagger |
+| React.js | Node.js / Express.js | **MySQL** |
+| Next.js | **.NET Core Web API** | **MS SQL Server** |
+| TypeScript | RESTful APIs | Git & GitHub |
+| **Redux / Redux Toolkit** | LINQ & Stored Procedures | Axios |
+| Tailwind CSS | SignalR | Socket.IO |
+| Ant Design | JWT Authentication | Postman / Swagger |
 
 ---
 
@@ -45,6 +46,7 @@ Results-oriented **Full Stack Developer** with expertise in modern web technolog
 | 📝 **Dynamic Form Systems** | Data-driven interfaces with responsive, accessible UI components |
 | 🌐 **RESTful API Development** | Scalable, secure APIs with proper documentation & versioning |
 | ⚡ **Real-Time Features** | Live communication using SignalR and Socket.IO |
+| 🗄️ **Database Design** | Optimized MySQL & SQL Server schemas with complex queries |
 
 ---
 
@@ -52,7 +54,6 @@ Results-oriented **Full Stack Developer** with expertise in modern web technolog
 
 <div align="center">
 
-<!-- These badges always work -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Tariqulislamk&color=0F6E56&style=for-the-badge)
 ![GitHub Followers](https://img.shields.io/github/followers/Tariqulislamk?style=for-the-badge&logo=github&color=0F6E56)
 ![GitHub Stars](https://img.shields.io/github/stars/Tariqulislamk?style=for-the-badge&logo=github&color=0F6E56)
@@ -67,6 +68,7 @@ Results-oriented **Full Stack Developer** with expertise in modern web technolog
 - ⚡ Performance Optimization at Scale
 - 🏗️ Microservices Architecture
 - ☁️ Cloud Deployment (Azure / AWS)
+- 🔄 State Management with Redux Saga
 
 ---
 
