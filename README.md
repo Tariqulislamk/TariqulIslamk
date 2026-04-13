@@ -28,8 +28,8 @@ Results-oriented **Full Stack Developer** with expertise in modern web technolog
 
 | **Frontend** | **Backend** | **Database & Tools** |
 |:---:|:---:|:---:|
-| React.js | Node.js / Express.js | **MySQL** |
-| Next.js | **.NET Core Web API** | **MS SQL Server** |
+| React.js | Node.js / Express.js | **MS SQL Server** |
+| Next.js | **.NET Core Web API** | **MySQL** |
 | TypeScript | RESTful APIs | Git & GitHub |
 | **Redux / Redux Toolkit** | LINQ & Stored Procedures | Axios |
 | Tailwind CSS | SignalR | Socket.IO |
