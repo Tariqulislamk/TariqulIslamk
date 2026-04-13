@@ -22,6 +22,8 @@ I enjoy solving real-world problems and turning complex requirements into simple
 - Ant Design
 
 ### Backend
+- Node.js
+- Express.js
 - .NET Core (Web API)
 - REST API Development
 - LINQ & Stored Procedures
