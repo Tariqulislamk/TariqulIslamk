@@ -79,14 +79,10 @@ I'm always open to:
 - 💬 **Discussions** about tech and architecture
 - 🚀 **Exciting opportunities** where I can add value
 
-<div align="left">
-  
-🔗 **LinkedIn:** <a href="https://www.linkedin.com/in/md-tariqul-islam-119899264" target="_blank">Md Tariqul Islam</a><br>
-📧 **Email:** <a href="mailto:tariqulislam0302@gmail.com" target="_blank">tariqulislam0302@gmail.com</a><br>
-🌐 **Portfolio:** <a href="https://web-tariqul-islam.vercel.app/" target="_blank">web-tariqul-islam.vercel.app</a><br>
-💻 **GitHub:** <a href="https://github.com/Tariqulislamk" target="_blank">github.com/Tariqulislamk</a>
-
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-Tariqulislamk-181717?style=for-the-badge&logo=github)](https://github.com/Tariqulislamk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Md_Tariqul_Islam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-tariqul-islam-119899264)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-0F6E56?style=for-the-badge&logo=vercel)](https://web-tariqul-islam.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-tariqulislam0302@gmail.com-185FA5?style=for-the-badge&logo=gmail)](mailto:tariqulislam0302@gmail.com)
 
 ---
 
