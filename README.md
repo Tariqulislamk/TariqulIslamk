@@ -1,96 +1,93 @@
 <div align="center">
 
-# Tariqul Islam
+# 🚀 Tariqul Islam
 
-**Full Stack Developer**
+### **Full Stack Developer**  
+*Building Scalable, High-Performance Web Applications*
 
-`React` · `Next.js` · `TypeScript` · `.NET Core` · `SQL Server`
+[![GitHub](https://img.shields.io/badge/GitHub-Tariqulislamk-181717?style=for-the-badge&logo=github)](https://github.com/Tariqulislamk)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-0F6E56?style=for-the-badge&logo=vercel)](https://web-tariqul-islam.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-tariqulislam0302@gmail.com-185FA5?style=for-the-badge&logo=gmail)](mailto:tariqulislam0302@gmail.com)
 
-*Results-oriented developer focused on building scalable, high-performance web applications — turning complex requirements into clean, efficient systems.*
+---
 
-[![GitHub](https://img.shields.io/badge/GitHub-Tariqulislamk-181717?style=flat-square&logo=github)](https://github.com/Tariqulislamk)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-0F6E56?style=flat-square&logo=vercel)](https://web-tariqul-islam.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-tariqulislam0302@gmail.com-185FA5?style=flat-square&logo=gmail)](mailto:tariqulislam0302@gmail.com)
+### 💡 *Turning complex requirements into clean, efficient systems*
+
+</div>
+
+## 👨‍💻 About Me
+
+Results-oriented **Full Stack Developer** with expertise in modern web technologies. I specialize in transforming complex business requirements into robust, scalable applications — from enterprise systems to real-time solutions.
+
+📍 **Location:** Dhaka, Bangladesh  
+🎯 **Focus:** Real-world solutions, clean architecture, performance optimization
+
+---
+
+## 🛠️ Technical Stack
+
+| **Frontend** | **Backend** | **Database & Tools** |
+|:---:|:---:|:---:|
+| React.js | Node.js / Express.js | MS SQL Server |
+| Next.js | .NET Core Web API | Git & GitHub |
+| TypeScript | RESTful APIs | Axios |
+| Tailwind CSS | LINQ & Stored Procedures | Socket.IO |
+| Ant Design | SignalR | Postman / Swagger |
+
+---
+
+## 💼 Key Expertise
+
+| Area | What I Deliver |
+|:---|:---|
+| 🏢 **Enterprise Applications** | Business-critical systems with clean, maintainable architecture |
+| 📋 **Tender & Bidding Platforms** | Complex workflow management with real-time updates & secure APIs |
+| 📝 **Dynamic Form Systems** | Data-driven interfaces with responsive, accessible UI components |
+| 🌐 **RESTful API Development** | Scalable, secure APIs with proper documentation & versioning |
+| ⚡ **Real-Time Features** | Live communication using SignalR and Socket.IO |
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tariqulislamk&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tariqulislamk&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tariqulislamk&theme=radical&hide_border=true)
 
 </div>
 
 ---
 
-## 🛠 Tech Stack
+## 🌱 Currently Leveling Up
 
-<table>
-  <tr>
-    <td valign="top" width="33%">
-
-**Frontend**
-- React.js
-- Next.js
-- TypeScript
-- Tailwind CSS
-- Ant Design
-
-    </td>
-    <td valign="top" width="33%">
-
-**Backend**
-- Node.js / Express.js
-- .NET Core Web API
-- REST API Design
-- LINQ & Stored Procedures
-- SignalR (Real-time)
-
-    </td>
-    <td valign="top" width="33%">
-
-**Tools & Data**
-- MS SQL Server
-- Git & GitHub
-- Axios / API Integration
-- Socket.IO
-- Responsive UI Design
-
-    </td>
-  </tr>
-</table>
+- 🧠 Advanced System Design Patterns
+- ⚡ Performance Optimization at Scale
+- 🏗️ Microservices Architecture
+- ☁️ Cloud Deployment (Azure / AWS)
 
 ---
 
-## 💼 What I Build
+## 📫 Let's Connect
 
-| Area | Description |
-|---|---|
-| 🖥 **Enterprise Applications** | Business-critical systems with clean architecture and efficient data flows |
-| 📋 **Tender & Bidding Systems** | Complex workflow management with real-time updates and secure APIs |
-| 📝 **Dynamic Forms & Data UI** | Data-driven interfaces with responsive, accessible component design |
-| 🌐 **RESTful APIs** | Scalable, secure API architecture with clean separation of concerns |
-| ⚡ **Real-time Features** | Live communication and updates using SignalR and Socket.IO |
+I'm always open to:
+- 🤝 **Collaborations** on interesting projects
+- 💬 **Discussions** about tech and architecture
+- 🚀 **Exciting opportunities** where I can add value
 
----
-
-## 🌱 Currently Improving
-
-- Advanced system design patterns
-- Performance optimization techniques
-- Scalable architecture at enterprise scale
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tariqulislamk&show_icons=true&theme=default&hide_border=true&count_private=true)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tariqulislamk&layout=compact&hide_border=true&theme=default)
-
-</div>
+**📧 Email:** [tariqulislam0302@gmail.com](mailto:tariqulislam0302@gmail.com)  
+**🌐 Portfolio:** [web-tariqul-islam.vercel.app](https://web-tariqul-islam.vercel.app/)  
+**💻 GitHub:** [github.com/Tariqulislamk](https://github.com/Tariqulislamk)
 
 ---
 
 <div align="center">
 
-**`// focusing on real-world solutions · Dhaka, Bangladesh`**
+### *"Code is poetry — write it clean, make it matter."*
 
-⭐️ *Always open to collaboration and exciting opportunities!*
+⭐ *Thanks for stopping by!* ⭐
 
 </div>
