@@ -46,7 +46,7 @@ Results-oriented **Full Stack Developer** with expertise in modern web technolog
 | 📝 **Dynamic Form Systems** | Data-driven interfaces with responsive, accessible UI components |
 | 🌐 **RESTful API Development** | Scalable, secure APIs with proper documentation & versioning |
 | ⚡ **Real-Time Features** | Live communication using SignalR and Socket.IO |
-| 🗄️ **Database Design** | Optimized MySQL & SQL Server schemas with complex queries |
+| 🗄️ **Database Design** | Optimized MS SQL Server & MySQL schemas with complex queries |
 
 ---
 
